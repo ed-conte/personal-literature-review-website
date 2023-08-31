@@ -13,28 +13,11 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 ## Markdown Instructions
 
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-This is an example for inserting images into Markdown:
-
-![this is an accessible text description of the image](example-sketch.png)
-
-**TODO: delete this section before submission.**
-
-
 ## Personal Site (Milestone 1)
 
 ### Website Topic (Milestone 1)
-> Briefly explain what your website will be about. Share your vision of your personal website.
->
-> Example: (TODO: delete this) My website will be about the Grassroots festival in Trumansburg NY.
 
-TODO: tell us about your website
-
+database of lore on Fromsoftware's Dark souls series of video games. These games possess deep complicated pantheons of gods and monsters. Each page will be a different entry in the series with sections for characters, timelines, and landmark events.
 
 ## Personal Website Design Exploration (Milestone 1)
 
@@ -44,83 +27,44 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
 **We'll refer to these are your "example websites."**
 
-> TODO: Remove this example in your submission.
-> Example: **(You may not use the instructors' websites for this part.)**
->
-> 0. <https://kharms.infosci.cornell.edu/>
->     ![Kyle Harms' personal website](example-site.png)
+1. <https://eldenring.fandom.com/wiki/Lore>
 
-1. <TODO: website url>
+    ![The elden ring fandom site](m1-content/eldenringfandom.png)
 
-    ![TODO: screenshot description](TODO: screenshot path)
+2. <https://www.obsidianportal.com/>
 
-2. <TODO: website url>
+    ![Website for creating a dungeons and dragons campaign](m1-content/obsidianweb.png)
 
-    ![TODO: screenshot description](TODO: screenshot path)
+3. <https://darksouls.wiki.fextralife.com/Lore>
 
-3. <TODO: website url>
-
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![The dark souls database site](m1-content/ds3fextralife.png)
 
 
 ### Personal Website 1 Review (Milestone 1)
-> Review the personal website you identified above. (1-2 paragraphs)
->
-> - Who do you think this site is designed for? Who is its intended audience?
-> - What **goals** do you think the audience likely has when visiting this site.
-> - What **content** is included?
-> - Do you believe the content likely **addresses** the goals of the site's audience?
-> - What do you like about the design?
-> - Is the site designed for desktop, mobile, or desktop and mobile devices?
-
-TODO: website reflection/critique
+> This site is designed for young men and women, approximately 13 and up, as that is the game's intended audience. The audience's goals when visiting this site are likely to answer a question relating to the game's story and lore. The game this site explains is vast and has many easy-to-miss characters and storylines. This site has maps, images, art pieces, bodies of text, and timelines. This site addresses the audience's goals by providing a wide range of information regarding the game. The design is relatively simple, and although I am not too fond of the ads and side menu, the information sections are neatly organized in an order that I find convenient. The site is designed for both desktop and mobile devices.
 
 
 ### Personal Website 2 Review (Milestone 1)
-> Review the personal website you identified above. (1-2 paragraphs)
->
-> - Who do you think this site is designed for? Who is its intended audience?
-> - What **goals** do you think the audience likely has when visiting this site.
-> - What **content** is included?
-> - Do you believe the content likely **addresses** the goals of the site's audience?
-> - What do you like about the design?
-> - Is the site designed for desktop, mobile, or desktop and mobile devices?
-
-TODO: website reflection/critique
+> The intended audience of this site is dungeon masters of dungeons and dragons, which tend to be older adolescents, young adults, and adults. When visiting this site, people generally aim to streamline their Dungeons and Dragons campaign. This site makes running the game much more fun for the DM and players. This site includes large images, text, and a large map. The content of this website addresses the goals of the audience. What I like about the design of this site is the main page. It includes a large background image and a prompt to jump right into the campaign manager, while the menu at the top is easily navigatable. This site is designed primarily for desktops, although it does work on mobile.
 
 
 ### Personal Website 3 Review (Milestone 1)
-> Review the personal website you identified above. (1-2 paragraphs)
->
-> - Who do you think this site is designed for? Who is its intended audience?
-> - What **goals** do you think the audience likely has when visiting this site.
-> - What **content** is included?
-> - Do you believe the content likely **addresses** the goals of the site's audience?
-> - What do you like about the design?
-> - Is the site designed for desktop, mobile, or desktop and mobile devices?
-
-TODO: website reflection/critique
-
+> The intended audience for this site is, once again, young adults. The audience of this site is those looking for guides on gameplay mechanics, story moments, and character quests. This site contains game guides and information regarding the narrative and game lore. This website presents large bodies of information and a plethora of maps detailing in-game locations; the content of this site brings everything from this huge game into one place, addressing the audience's goals; answering any question about the story and lore becomes exceptionally convenient. The menus of this site include icons straight from the game, making navigation easily understandable for the intended audience. The colors and organization are also reminiscent of the in-game menus. This website is designed for both desktop computers and mobile devices.
 
 ## Audience & Goals (Milestone 1)
 
 Using what you learned from studying the example websites, identify your website's audience and their goals.
 
 ### Audience (Milestone 1)
-> Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
-
-TODO: site's audience
-
+> The audience for my site would be young adults. Young adults are the primary audience of the games featured on the site. I will target specifically those who wish to explore specifically the narrative, lore, and characters, as I will leave out anything related to gameplay mechanics and guides.
 
 ### Audience Goals (Milestone 1)
-> Why would your audience visit your site?
-> Identify at least 3 goals that your users have for visiting your website.
 
-1. TODO: goal
+1. learning about the games' lore to make an educated purchasing descision
 
-2. TODO: goal
+2. Finding inspiration for writing and worldbuilding
 
-3. TODO: goal
+3. clarifying vague aspects of the game's characters and story
 
 
 ## Content Planning (Milestone 1)
@@ -128,28 +72,17 @@ TODO: site's audience
 Plan your site's content.
 
 ### Your Site's Planned Content (Milestone 1)
-> List **all** the content you plan to include your personal website.
-> You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
-
+- text
+- character images
+- location images
+- artifact images
 
 ### Content Justification (Milestone 1)
-> Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
-
-TODO: justify your content decisions
-
+> A website that provides a surplus of information about such an expansive piece of fiction requires images to accompany the often difficult-to-remember names. An individual may not remember a name, but they may remember the face, artifact, or location it belongs to. On the other hand, a user may want to find a specific character, place, or artifact to look for in a game, and providing an image alongside a name and description helps them achieve their goal more effectively.
 
 ### Home Page Content (Milestone 1)
-> What is the content that your users would expect when visiting your site for the first time.
->
-> Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
-
-TODO: homepage content
-
+> The homepage will include a text description and a short synopsis of the game world. I will include a large image to associate with the text. When the user enters the site, they should be instantly provided with a brief introduction to know if they are in the right place, and if so, they can be conveniently brought closer to their goal. To some, a brief introduction may be all they need. I will include a menu to navigate the site's various pages, and icons will accompany the labels for a more aesthetically pleasing experience. The menu will be easily read and placed conveniently on the page to provide the user with the most accessible way to find the required information.
 
 ## Information Architecture (Milestone 2)
 
