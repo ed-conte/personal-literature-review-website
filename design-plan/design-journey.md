@@ -95,30 +95,34 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+>iteration 1
+(design-plan/contentsorting/iteration1)
+> here I organized the content based on book genre
+
+>iteration 2
+(design-plan/contentsorting/iteration2)
+> here I organized content based on the story elements of the content: fantastical, occult, and grounded
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
-
-TODO: tell us which iteration of card sorting you plan to use.
+> I will use iteration 1
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
-
+> organizing books into genres is the best and simplest way to catagorize them by subject matter rather than grouping them into arbitrary catagories based on "themes"
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Medieval Fantasy
+- Classical
+- Gothic Horror
+- Epic Poems
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+> naming the pages after the genres of books included allowes the user to search for a book/content in the specific genre that the reader desires to engage with. All content is geared towards the historically inclined reader, but breaking down those catagories streamlines the experience. 
 
 
 ## Visual Themes (Milestone 3)
