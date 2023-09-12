@@ -27,6 +27,8 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
 **We'll refer to these are your "example websites."**
 
+> OLD answers:
+
 1. <https://eldenring.fandom.com/wiki/Lore>
 
     ![The elden ring fandom site](m1-content/eldenringfandom.png)
@@ -39,26 +41,60 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
     ![The dark souls database site](m1-content/ds3fextralife.png)
 
+> NEW answers:
+
+1. https://www.libraryjournal.com/
+
+    ![The Library Journal] ()
+
+2. https://www.slj.com/section/reviews
+
+    ![The School Library Journal] ()
+
+3. https://www.nytimes.com/topic/subject/book-reviews
+
+    ![The book review section of the NYTimes] ()
+
+
 
 ### Personal Website 1 Review (Milestone 1)
+
+> OLD answer:
 > This site is designed for young men and women, approximately 13 and up, as that is the game's intended audience. The audience's goals when visiting this site are likely to answer a question relating to the game's story and lore. The game this site explains is vast and has many easy-to-miss characters and storylines. This site has maps, images, art pieces, bodies of text, and timelines. This site addresses the audience's goals by providing a wide range of information regarding the game. The design is relatively simple, and although I am not too fond of the ads and side menu, the information sections are neatly organized in an order that I find convenient. The site is designed for both desktop and mobile devices.
+
+> NEW answer:
+>
 
 
 ### Personal Website 2 Review (Milestone 1)
+
+>OLD answer:
 > The intended audience of this site is dungeon masters of dungeons and dragons, which tend to be older adolescents, young adults, and adults. When visiting this site, people generally aim to streamline their Dungeons and Dragons campaign. This site makes running the game much more fun for the DM and players. This site includes large images, text, and a large map. The content of this website addresses the goals of the audience. What I like about the design of this site is the main page. It includes a large background image and a prompt to jump right into the campaign manager, while the menu at the top is easily navigatable. This site is designed primarily for desktops, although it does work on mobile.
+
+> NEW answer
+>
 
 
 ### Personal Website 3 Review (Milestone 1)
+> OLD answer:
 > The intended audience for this site is, once again, young adults. The audience of this site is those looking for guides on gameplay mechanics, story moments, and character quests. This site contains game guides and information regarding the narrative and game lore. This website presents large bodies of information and a plethora of maps detailing in-game locations; the content of this site brings everything from this huge game into one place, addressing the audience's goals; answering any question about the story and lore becomes exceptionally convenient. The menus of this site include icons straight from the game, making navigation easily understandable for the intended audience. The colors and organization are also reminiscent of the in-game menus. This website is designed for both desktop computers and mobile devices.
+
+> NEW answer:
 
 ## Audience & Goals (Milestone 1)
 
 Using what you learned from studying the example websites, identify your website's audience and their goals.
 
 ### Audience (Milestone 1)
+
+> OLD answer:
 > The audience for my site would be young adults. Young adults are the primary audience of the games featured on the site. I will target specifically those who wish to explore specifically the narrative, lore, and characters, as I will leave out anything related to gameplay mechanics and guides.
 
+> NEW answer:
+
 ### Audience Goals (Milestone 1)
+
+> OLD answer:
 
 1. learning about the games' lore to make an educated purchasing descision
 
@@ -66,6 +102,11 @@ Using what you learned from studying the example websites, identify your website
 
 3. clarifying vague aspects of the game's characters and story
 
+> NEW answer:
+
+1. GOAL 1
+2. GOAL 2
+3. GOAL 3
 
 ## Content Planning (Milestone 1)
 
@@ -73,16 +114,45 @@ Plan your site's content.
 
 ### Your Site's Planned Content (Milestone 1)
 
+> OLD answer:
+
 - text
 - character images
 - location images
 - artifact images
 
+> NEW answer:
+
+- summary, author information, and reviews for the following books
+  - Dracula
+  - Frankenstein
+  - The strange case of Dr. Jekyll and Mr. Hyde
+  - The Odyssey
+  - Dante's Inferno
+  - Beowulf
+  - The Lord of the Rings
+  - The Eye of the World
+  - The Count of Monte Cristo
+  - The Three Musketeers
+  - The Great Gatsby
+- An image of the Author for each book
+- A list for currently reading books
+- An "about me" text
+- A welcome text
+
 ### Content Justification (Milestone 1)
+
+> OLD answer
 > A website that provides a surplus of information about such an expansive piece of fiction requires images to accompany the often difficult-to-remember names. An individual may not remember a name, but they may remember the face, artifact, or location it belongs to. On the other hand, a user may want to find a specific character, place, or artifact to look for in a game, and providing an image alongside a name and description helps them achieve their goal more effectively.
 
+> NEW answer
+
 ### Home Page Content (Milestone 1)
+
+>OLD answer:
 > The homepage will include a text description and a short synopsis of the game world. I will include a large image to associate with the text. When the user enters the site, they should be instantly provided with a brief introduction to know if they are in the right place, and if so, they can be conveniently brought closer to their goal. To some, a brief introduction may be all they need. I will include a menu to navigate the site's various pages, and icons will accompany the labels for a more aesthetically pleasing experience. The menu will be easily read and placed conveniently on the page to provide the user with the most accessible way to find the required information.
+
+> NEW answer
 
 ## Information Architecture (Milestone 2)
 
@@ -95,11 +165,11 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
->iteration 1
+> iteration 1
 (design-plan/contentsorting/iteration1)
 > here I organized the content based on book genre
 
->iteration 2
+> iteration 2
 (design-plan/contentsorting/iteration2)
 > here I organized content based on the story elements of the content: fantastical, occult, and grounded
 
@@ -119,10 +189,11 @@ You may change your homepage content based on your card sorting. If you do chang
 - Classical
 - Gothic Horror
 - Epic Poems
+- Homepage
 
 > Explain why the names of these pages make sense for your site's audience.
 
-> naming the pages after the genres of books included allowes the user to search for a book/content in the specific genre that the reader desires to engage with. All content is geared towards the historically inclined reader, but breaking down those catagories streamlines the experience. 
+> naming the pages after the genres of books included allowes the user to search for a book/content in the specific genre that the reader desires to engage with. All content is geared towards the historically inclined reader, but breaking down those catagories streamlines the experience.
 
 
 ## Visual Themes (Milestone 3)
@@ -136,7 +207,33 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 
-TODO: theme ideas
+1. theme 1
+
+   - Color - Navy, contrasted by a light grey text
+   - Shape - text will be seperated by lines and bodies of text will be in angular shapes to distinguish different sections of the site
+   - Typography - strong, bold, Professional font
+   - Imagery - All pictures will have hard edges and have a dark border
+
+2. theme 2
+
+   - Color - Off white background with dark text
+   - Shape - text will be seperated by large underlined headings and will sit on the background without being boxed off
+   - Typography - dark, thin, stylish text
+   - Imagery - images will have dark borders to help them stick out from the background
+
+3. theme 3
+
+   - Color - off white and blue
+   - Shape - softer shapes and soft seperation lines between sections
+   - Typography - readable unprofessional typeface
+   - Imagery - images will not have borders and will have rounded edges
+
+4. theme 4
+
+   - Color - TODO
+   - Shape - TODO
+   - Typography - TODO
+   - Imagery - TODO
 
 
 ### Final Theme (Milestone 3)
