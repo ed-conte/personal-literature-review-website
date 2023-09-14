@@ -1,0 +1,296 @@
+
+/* ----- page title ----- */
+.pagetitle {
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    font-size: 24pt;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    /* format */
+    text-align: center;
+    margin-bottom: 0.5;
+    padding: 12px;
+    /* color */
+    color: #e7e2d3;
+}
+
+/* ----- body of the page ----- */
+body {
+    /* format */
+    margin-left: 20px;
+    margin-right: 20px;
+    /* font */
+    font-family: 'Baskerville', Georgia, 'Times New Roman';
+    font-size: 14pt;
+    color: #0d0f2c;
+    /* color */
+    background-color: #0d0f2c;
+}
+
+/* ----- navbar ----- */
+.navmenu {
+    /* color */
+        /* old - background-color: #bdbdbd;*/
+    /* format */
+    padding-top: 0px;
+    overflow: hidden;
+    line-height: 1.5;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* navbar heading */
+.navh {
+    /* format */
+    padding: 2px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: -10px;
+    border-bottom: 2px solid #e7e2d3;
+    text-align: center;
+    /* color */
+    color: #e7e2d3;
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15pt;
+    font-weight: bold;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+}
+
+/* navbar logo */
+.navmenu img {
+    /* format */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: -20px;
+    width: 24px;
+    height: 24px;
+    /* border */
+    border: none;
+}
+
+/* navbar links */
+.navmenu li {
+    /* format */
+    list-style-type: none;
+    list-style-position: outside;
+    text-align: center;
+    margin-right: 40px;
+}
+
+/* navbar link text */
+.navmenu li a{
+    /* font */
+    color: #e7e2d3;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+/* when the user hovers over the navmenu */
+.navmenu li:hover {
+    background-color: #e7e2d3;
+    border-radius: 5px;
+}
+
+/* when the user hovers over the navmenu links */
+.navmenu li:hover a {
+    color: #0d0f2c;
+}
+
+/* ----- text sections on homepage ----- */
+.text {
+    /* font */
+    font-size: 14pt;
+    font-weight: normal;
+    /* format */
+    margin-bottom: 0.5;
+    background-color: #e7e2d3;
+    margin: 10px;
+    padding: 14px;
+    border-radius: 5px;
+}
+
+/* text section headings on homepage */
+.text h2 {
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20pt;
+    font-weight: bold;
+    letter-spacing: .75px;
+    text-transform: uppercase;
+    /* format */
+    text-align: center;
+    /* color */
+    color: #0d0f2c;
+}
+
+/* text section paragraphs on homepage */
+.text p {
+line-height: 150%;
+}
+
+/* text section graphic */
+.logo {
+    /* format */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 105px;
+    height: 100px;
+    /* border */
+    border: none;
+}
+
+/* gmail logo */
+.gmail {
+    /* format */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66px;
+    height: 50px;
+    /* border */
+    border: none;
+}
+
+/* ----- currently reading section ----- */
+.current {
+    /* color */
+    color: #e7e2d3;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+/* currently reading list heading */
+.current h3 {
+    /* format */
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 2px solid #e7e2d3;
+    text-align: center;
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    font-size: 16pt;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* currently reading list */
+.current li {
+    /* format */
+    list-style-type: none;
+    list-style-position: outside;
+    text-align: center;
+    margin-right: 40px;
+    line-height: 35px;
+}
+
+/* ----- book sections ----- */
+.book {
+    /* format */
+    margin: 12px;
+    margin-top: 40px;
+    padding: 14px;
+    border-radius: 5px;
+    background-color: #e7e2d3;
+}
+
+/* book titles */
+.book h3 {
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    text-decoration: none;
+    font-size: 18pt;
+    font-weight: bold;
+    letter-spacing: .75px;
+    text-transform: uppercase;
+    /* format */
+    text-align: center;
+    margin-bottom: 0.5;
+    /* color */
+    color: #0d0f2c;
+}
+
+/* book section headings */
+.book h4 {
+    /* font */
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15pt;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.75px;
+    /* format */
+    padding: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 2px solid #0d0f2c;
+    /* color */
+    color: #0d0f2c;
+}
+
+/* book section text */
+.book p {
+    /* font */
+    font-family: 'Baskerville', Georgia, 'Times New Roman';
+    font-size: 14pt;
+    font-weight: normal;
+    /* format */
+    line-height: 150%;
+    margin-bottom: 0.5;
+    /* color */
+    color: #0d0f2c;
+}
+
+/* book section images */
+.book img {
+    /* format */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 250px;
+    /* border */
+    border: 2px solid #0d0f2c;
+    border-radius: 5px;
+}
+
+/* book section ficure caption */
+.book figcaption {
+    /* font */
+    font-family: 'Baskerville', Georgia, 'Times New Roman';
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: italic;
+    font-variant: small-caps;
+    /* format */
+    text-align: center;
+    margin-bottom: 0.5;
+    /* color */
+    color: #0d0f2c;
+}
+
+/* ----- citations ----- */
+.cite {
+    /* format */
+    line-height: 150%;
+    margin-bottom: 0.5;
+    text-align: right;
+}
+
+/* citation links */
+.cite a {
+    /* font */
+    font-family: 'Baskerville', Georgia, 'Times New Roman';
+    font-weight: normal;
+    text-decoration: none;
+    /* color */
+    color: #0d0f2c;
+}
