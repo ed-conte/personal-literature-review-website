@@ -232,7 +232,7 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Final Theme (Milestone 3)
 > Which theme did you select as your final theme? Why?
 
-> I chose a minimalist theme characterized by a navy background and off-white text boxes to align with the mature preferences of my target audience, who are aficionados of more advanced literature. The tone of the sight reflects. 
+> I chose a minimalist theme characterized by a navy background and off-white text boxes to align with the mature preferences of my target audience, who are aficionados of more advanced literature. The tone of the site that I chose to reflect in the theme I chose reflects the reading goals of the audience.
 
 ### Theme Rationale (Milestone 3)
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
@@ -241,7 +241,7 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 
-> The design aims to evoke a sense of calm, professionalism, and intellectual curiosity. I entend to promote users to immerse themselves in deep, thoughtful explorations of the historical fiction presented on the site.
+> The design aims to evoke a sense of calm, professionalism, and intellectual curiosity. I entend to encourage users to immerse themselves in deep, thoughtful explorations of the historical fiction presented on the site.
 
 ## Composition (Final Submission)
 
