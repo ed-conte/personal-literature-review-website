@@ -212,45 +212,36 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
    - Color - Navy, contrasted by a light grey text
    - Shape - text will be seperated by lines and bodies of text will be in angular shapes to distinguish different sections of the site
    - Typography - strong, bold, Professional font
-   - Imagery - All pictures will have hard edges and have a dark border
+   - Imagery - All pictures will have hard edges and have a dark border bright icons near the menu
 
 2. theme 2
 
    - Color - Off white background with dark text
    - Shape - text will be seperated by large underlined headings and will sit on the background without being boxed off
    - Typography - dark, thin, stylish text
-   - Imagery - images will have dark borders to help them stick out from the background
+   - Imagery - images will have dark borders to help them stick out from the background large icons to draw attention to interactive segments
 
 3. theme 3
 
    - Color - off white and blue
-   - Shape - softer shapes and soft seperation lines between sections
-   - Typography - readable unprofessional typeface
-   - Imagery - images will not have borders and will have rounded edges
-
-4. theme 4
-
-   - Color - TODO
-   - Shape - TODO
-   - Typography - TODO
-   - Imagery - TODO
+   - Shape - softer shapes and soft seperation lines between significant sections
+   - Typography - readable professional typeface
+   - Imagery - images will not have borders and will have rounded edges there will be small minimalist logos and icons
 
 
 ### Final Theme (Milestone 3)
 > Which theme did you select as your final theme? Why?
 
-TODO: what theme will your website use?
-
+> I chose a minimalist theme characterized by a navy background and off-white text boxes to align with the mature preferences of my target audience, who are aficionados of more advanced literature. The tone of the sight reflects. 
 
 ### Theme Rationale (Milestone 3)
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
 
-TODO: theme rationale
+> The topic of the site is advanced historical literature, therefore the site is intend for an older audience who do not need bright saturated colors and large icons. This theme will bolster the asthetic of the site and fits with the tone of the books presented. The theme, with its uniform color palette and professional fonts, mirrors the themes of the genres of texts that I included, offering a tranquil and dignified space that should resonate well with an older, more scholarly audience.
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 
-TODO: theme emotions
-
+> The design aims to evoke a sense of calm, professionalism, and intellectual curiosity. I entend to promote users to immerse themselves in deep, thoughtful explorations of the historical fiction presented on the site.
 
 ## Composition (Final Submission)
 
