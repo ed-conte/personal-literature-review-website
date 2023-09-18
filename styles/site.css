@@ -144,6 +144,7 @@ body {
     margin: 10px;
     padding: 14px;
     border-radius: 5px;
+    text-indent: 35px;
 }
 
 /* text section headings on homepage */
@@ -233,6 +234,8 @@ line-height: 150%;
     padding: 14px;
     border-radius: 5px;
     background-color: #e7e2d3;
+    text-indent: 35px;
+    font-size: 14pt;
 }
 
 /* book titles */
@@ -247,6 +250,9 @@ line-height: 150%;
     /* format */
     text-align: center;
     margin-bottom: 0.5;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
     /* color */
     color: #0d0f2c;
 }
@@ -265,6 +271,7 @@ line-height: 150%;
     margin-left: 20px;
     margin-right: 20px;
     border-bottom: 2px solid #0d0f2c;
+    padding-right: 20px;
     /* color */
     color: #0d0f2c;
 }
@@ -273,11 +280,10 @@ line-height: 150%;
 .book p {
     /* font */
     font-family: 'Baskerville', Georgia, 'Times New Roman';
-    font-size: 14pt;
     font-weight: normal;
     /* format */
     line-height: 150%;
-    margin-bottom: 0.5;
+    padding: 15px;
     /* color */
     color: #0d0f2c;
 }
@@ -318,6 +324,7 @@ line-height: 150%;
     line-height: 150%;
     margin-bottom: 0.5;
     text-align: right;
+    font-size: 11pt;
 }
 
 /* citation links */
@@ -326,6 +333,7 @@ line-height: 150%;
     font-family: 'Baskerville', Georgia, 'Times New Roman';
     font-weight: normal;
     text-decoration: none;
+    font-size: 11pt;
     /* color */
     color: #0d0f2c;
 }
