@@ -9,8 +9,8 @@
     text-transform: uppercase;
     /* format */
     text-align: center;
-    margin-bottom: 0.5;
-    line-height: 0.5;
+    margin-bottom: .5;
+    line-height: .5;
     padding: 12px;
     /* color */
     color: #e7e2d3;
@@ -139,7 +139,7 @@ body {
     font-size: 14pt;
     font-weight: normal;
     /* format */
-    margin-bottom: 0.5;
+    margin-bottom: .5;
     background-color: #e7e2d3;
     margin: 10px;
     padding: 14px;
@@ -249,7 +249,7 @@ line-height: 150%;
     text-transform: uppercase;
     /* format */
     text-align: center;
-    margin-bottom: 0.5;
+    margin-bottom: .5;
     padding-bottom: 20px;
     padding-top: 10px;
     padding-right: 20px;
@@ -313,7 +313,7 @@ line-height: 150%;
     font-variant: small-caps;
     /* format */
     text-align: center;
-    margin-bottom: 0.5;
+    margin-bottom: .5;
     /* color */
     color: #0d0f2c;
 }
@@ -322,7 +322,7 @@ line-height: 150%;
 .cite {
     /* format */
     line-height: 150%;
-    margin-bottom: 0.5;
+    margin-bottom: .5;
     text-align: right;
     font-size: 11pt;
 }
