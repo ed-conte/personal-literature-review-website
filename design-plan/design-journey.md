@@ -67,7 +67,7 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > This site is designed for young men and women, approximately 13 and up, as that is the game's intended audience. The audience's goals when visiting this site are likely to answer a question relating to the game's story and lore. The game this site explains is vast and has many easy-to-miss characters and storylines. This site has maps, images, art pieces, bodies of text, and timelines. This site addresses the audience's goals by providing a wide range of information regarding the game. The design is relatively simple, and although I am not too fond of the ads and side menu, the information sections are neatly organized in an order that I find convenient. The site is designed for both desktop and mobile devices.
 
 > NEW answer:
-> This site is created for a professional audience in the library and literary field. The primary goal of the audience visiting this site is to stay updated with the latest news, book reviews, and literary insight. The website offers a variety of resources including book reviews, editorials, and information on upcoming events and professional development programs. It features sections like "Industry News", "Book Pulse", and "Innovation", providing an informative source that caters to the interests of its audience. The site is well-organized with different clearly marked sections, making navigation convenient. Although the site has sponsored content and a considerable amount of ads, it maintains a structured layout that facilitates easy access to its various topics. The website is accessible on both desktop and mobile devices, ensuring that users search its database away from home.
+> This site is created for a professional audience in the library and literary field. The primary goal of the audience visiting this site is to stay updated with the latest news, book reviews, and literary insight. The website offers a variety of resources including book reviews, editorials, and information on upcoming events and professional development programs. It provides an informative place that caters directly to the interests of its audience. The site is well-organized with different clearly marked sections, making navigation convenient. Although the site has sponsored content and a considerable amount of ads, it maintains a structured layout that facilitates easy access to its various topics. The website is accessible on both desktop and mobile devices, ensuring that users search its database away from home.
 
 
 ### Personal Website 2 Review (Milestone 1)
@@ -75,7 +75,7 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 >OLD answer:
 > The intended audience of this site is dungeon masters of dungeons and dragons, which tend to be older adolescents, young adults, and adults. When visiting this site, people generally aim to streamline their Dungeons and Dragons campaign. This site makes running the game much more fun for the DM and players. This site includes large images, text, and a large map. The content of this website addresses the goals of the audience. What I like about the design of this site is the main page. It includes a large background image and a prompt to jump right into the campaign manager, while the menu at the top is easily navigatable. This site is designed primarily for desktops, although it does work on mobile.
 
-> NEW answer
+> NEW answer:
 >This is a site for educators and librarians. Visitors to this site are likely seeking reviews on a diverse range of books for younger audiences, including graphic novels, picture books, and young adult series. This site is extensive, featuring a rich array of articles, blogs, and reviews. This site facilitates the audience's search by offering a comprehensive collection of resources, including featured stories, author interviews, and category-specific filters for a concise browsing experience. Although the presence of numerous articles and options might seem overwhelming to some, the design is straightforward, with a clear categorization of sections. The information sections are well organized, and allow for convenient navigation. This site is optimized for both wide and narrow screens, ensuring a seamless browsing experience regardless of the platform used.
 
 
@@ -84,7 +84,7 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > The intended audience for this site is, once again, young adults. The audience of this site is those looking for guides on gameplay mechanics, story moments, and character quests. This site contains game guides and information regarding the narrative and game lore. This website presents large bodies of information and a plethora of maps detailing in-game locations; the content of this site brings everything from this huge game into one place, addressing the audience's goals; answering any question about the story and lore becomes exceptionally convenient. The menus of this site include icons straight from the game, making navigation easily understandable for the intended audience. The colors and organization are also reminiscent of the in-game menus. This website is designed for both desktop computers and mobile devices.
 
 > NEW answer:
-> This site is a hub for literary enthusiasts and readers of various genres, ranging from non-fiction to poetry and fiction. The audience visiting this site seeks to delve into reviews and analyses of recent publications. The platform this site presents is extensive, boasting a vast array of articles that discuss various facets of the literary world. This site meets the audience's objectives by offering a repository of information on a wide array of topics, ranging from contemporary societal issues in non-fiction pieces to the creativity explored in fiction and poetry. The design is straightforward, with a clear categorization of pages, which facilitates quick navigation despite the dense content. The information sections are organized, allowing users to seamlessly explore reviews based on their preferences. This site is optimized for wide and narrow screens, increasing accessibility.
+> This site is a reputable hub for literary enthusiasts and readers of various genres, ranging from non-fiction to poetry. The audience visiting this site seeks to delve into reviews and analyses of recent publications. The platform this site presents is extensive, boasting a vast array of articles that discuss various facets of the literary world. This site meets the audience's objectives by offering a repository of information on a wide array of topics, ranging from contemporary societal issues in non-fiction pieces to the creativity explored in fiction and poetry. The design is straightforward, with a clear categorization of pages, which facilitates quick navigation despite the dense content. The information sections are organized, allowing users to seamlessly explore reviews based on their preferences. This site is optimized for wide and narrow screens, increasing accessibility.
 
 ## Audience & Goals (Milestone 1)
 
@@ -96,7 +96,7 @@ Using what you learned from studying the example websites, identify your website
 > The audience for my site would be young adults. Young adults are the primary audience of the games featured on the site. I will target specifically those who wish to explore specifically the narrative, lore, and characters, as I will leave out anything related to gameplay mechanics and guides.
 
 > NEW answer:
-> The audience for my site are literary enthusiests who enjoy genres relating to historical fiction. I will specifically cater the site to those who wish to dive deeper into the books that I have read, and encourage them to utilize my site to inform their reading decisions.
+> The audience that my site targets is literary enthusiests who enjoy genres relating to historical fiction. I will specifically cater the site to those who wish to dive deeper into the books that I have read, and encourage them to utilize my site to inform their reading decisions.
 
 ### Audience Goals (Milestone 1)
 
@@ -152,7 +152,7 @@ Plan your site's content.
 > A website that provides a surplus of information about such an expansive piece of fiction requires images to accompany the often difficult-to-remember names. An individual may not remember a name, but they may remember the face, artifact, or location it belongs to. On the other hand, a user may want to find a specific character, place, or artifact to look for in a game, and providing an image alongside a name and description helps them achieve their goal more effectively.
 
 > NEW answer:
-> Incorporating a range of content such as summaries, author information, and reviews for a close selection of personal favorite literary works, my book review website strives to be a comprehensive resource for book enthusiasts. The inclusion of author images and a "currently reading" list adds a personal touch, which aims to foster a community of like-minded readers. Additionally, the "about me" section with contact information encourages interaction and book recommendations, while the welcome text and informative icons ensure a user-friendly experience. Which makes my website a welcoming and engaging space for literary exploration.
+> Incorporating a range of content such as summaries, author information, and reviews for a close selection of personal favorite literary works, my book review website strives to be a comprehensive resource for book enthusiasts. The inclusion of author images and a "currently reading" list adds a personal touch, which aims to foster a community of like-minded readers. Additionally, the "about me" section with contact information encourages interaction and book recommendations, while the welcome text and informative icons ensure a user-friendly experience. Thus, making my website a welcoming and engaging space for literary exploration.
 
 ### Home Page Content (Milestone 1)
 
@@ -249,7 +249,7 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 
-> The design aims to evoke a sense of calm, professionalism, and intellectual curiosity. I plan to keep the user calm by not bombarding them with an overuse of imagery and meaningless text. I will retain a sense of proffessionalism in my chosen font, colorscheme, and formatting. Although there is a large quantity oftext on the site. I intend to encourage users to immerse themselves in deep, thoughtful explorations of the historical fiction presented on the site.
+> The design aims to evoke a sense of calm, professionalism, and intellectual curiosity. I plan to keep the user calm by not bombarding them with an overuse of imagery and meaningless text. I will retain a sense of professionalism in my chosen font, colorscheme, and formatting. Although there is a large quantity of text on the site. I intend to encourage users to immerse themselves in deep, thoughtful explorations of the historical fiction presented on the site.
 
 ## Composition (Final Submission)
 
@@ -259,14 +259,23 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 > Show your design process.
 > **Use the example websites above as inspiration for your site's design.**
 
+Design 1:
+    ![home design 1](websiteimgs/home1.png)
+> For this design I chose to use the Library Journal as inspiration. This design minimizes the need for too much scrolling to see all of the content on the home page. It includes icons and decorative elements, with clear divisions between content so the user does not become overwhelmed. The "about me" section and contact information are hosued inside of a footer at the bottom of the page seperate from more informative content. The welcome text sits beside the navigation menu so it is in the user's sight when they change pages.
 
-
+Design 2:
+    ![home design 2](websiteimgs/home2.png)
 ### Final Site Design (Final Submission)
+> For this design I used the New York Times Book review site as my inspiration. This design is more minimalist than the previous idea, and was implimented to bolster the tone of professionalism displayed through the homepage. I chose to remove the additional decorations in favor of more simplistic icons and demarcations. The title has a small decorative line to draw the user's attention without hindering their view of the page, and the text pieces are enclosed within a light colored box rather than within a harsh border.
+
 > Include a sketch of the final composition for each page in your site.
 > Provide an explanation below each sketch.
 
-TODO: site sketches
+Site Pages
+![Site page layout](websiteimgs/page1.png)
+![Site page layout](websiteimgs/page2.png)
 
+> This is the layout template used for all of the site pages the changes made to this template are purely based on the text and images of each page. For these book pages, I removed the decoration around the title so the individual page title is not as impactful as the website title. The navigation menu is the same save for the small hamburger icon, which was removed on book pages to maintain focus on the book content. This book content is contained within the same style boxes as the "welcome" and "about me" sections of the home page to promote a sense of coherence between the pages and home. An author image is added for the first book on each page; the decision for this is to highlight the most impotant and most personal book from each genre.
 
 ### Static Website Design Check (Final Submission)
 > We're building a static website without interactivity.
@@ -275,8 +284,7 @@ TODO: site sketches
 >dfd
 > Audit your design and check that you aren't relying on any dynamic features.
 
-> There is no interactivity on my wesite because there is no Javascript implementation. Without javascript, my mobile website will load faster on user's devices and page navigation will appear more seamless, simultaniously, a lack of Javascript will also limit some of the errors that may occur on a website such as broken images.
-
+> There is no interactivity on my website because there is no Javascript implementation. Without javascript, my mobile website will load faster on user's devices and page navigation will appear more seamless. Simultaneously, a lack of Javascript will also limit some of the errors that may occur on a website such as broken images.
 
 ## Rationale (Final Submission)
 
@@ -291,19 +299,20 @@ Your rationale should be a polished version of the earlier explanations.
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
+> The target demographic for my final website is literary aficionados with a very specific interest in the realm of historical fiction. My website is curated to fit my personal interests and resonate with those who possess similar tastes in fiction, and likewise fascination of the various genres that fall under the historical umbrella. By providing comprehensive insights, reviews, and information on the authors, I aim to guide and enrich the audiences’ reading experiences or offer commentary on books in which they have previous experience with. I encourage these readers to analyze the resources available on my site, so that their horizons may be broadened and they have the tools to make informed decisions about their reading choices in the future.
 
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO: your design goals
+> I have made meticulous design choices to cater to the specific needs and preferences of the intended audience: mature readers of historical literature. I recognize that this demographic may not resonate with saturated colors or oversized detailed icons, therefore, the design manifests in a more subdued and uniform color palette, complemented by the two professional fonts; one for titles and headings, the other for normal text. This not only enhances the site's aesthetic but also aligns seamlessly with the tone of the featured books.
+> The design choices are chosen based on the emotions they elicit in the audience. The overarching design intent is to foster an atmosphere of calm, allowing users to navigate the site without feeling overwhelmed by excessive decoration or superfluous text. The chosen fonts, color scheme, and structured formatting collectively exude a sense of professionalism, which reinforces the site's credibility and authority. Despite the large quantity of textual content, the design encourages users to delve into thoughtful engagements with the historical fiction showcased. In essence, the design aims to inspire intellectual curiosity while simultaneously ensuring a dignified user experience will resonate with a scholarly audience.
+
 
 
 ### Content Organization & Navigation (Final Submission)
 > An explanation of how the final content organization and navigation met your goals and why it's appropriate for your audience.
 
-TODO: content and information architecture rationale
 > While retaining the premise of a personal website, I attempted to keep most of the information I presented about each book objective and displayed in an informative organized manner. My review of each book is subjective, and the rating I attached to each work should be the last thing the user sees in each book section so that the user has the option to form their own opinions first, then return to compare it with mine. The navigation of the site fits in line with my goals as it allows the user to browse the site's content in the most commonly accessable manner; navigating the site based on book genre accounts for the possibility that not all users will know every genre included in the site.
 
 
