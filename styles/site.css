@@ -157,6 +157,7 @@ body {
     text-transform: uppercase;
     /* format */
     text-align: center;
+    padding-right: 20px;
     /* color */
     color: #0d0f2c;
 }
